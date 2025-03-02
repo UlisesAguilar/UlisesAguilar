@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @UlisesAguilar
 - 👀 I’m interested in Legaltech
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ITAM 4 Code projects.
